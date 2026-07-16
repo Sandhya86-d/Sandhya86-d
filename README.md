@@ -117,7 +117,7 @@ I believe every dataset has a story to tell, and I enjoy discovering insights th
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:sandhyadugginaboina@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
